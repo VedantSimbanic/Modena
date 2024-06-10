@@ -1,0 +1,28 @@
+[
+  {
+    "agentId": "6666c298913102dd22efa1d4",
+    "title": "OFFICE",
+    "propertyImages": [],
+    "price": "$420,000",
+    "address": "Rodeo Drive, 325",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "isDeleted": false,
+    "createdAt": "2024-06-10T09:30:43.750Z",
+    "_id": "6666c7c37a85a2a36c0c3ba1",
+    "__v": 0
+  },
+  {
+    "agentId": "6666c298913102dd22efa1d4",
+    "title": "OFFICE",
+    "propertyImages": [],
+    "price": "$420,000",
+    "address": "Rodeo Drive, 325",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "isDeleted": false,
+    "createdAt": "2024-06-10T09:35:28.821Z",
+    "_id": "6666c8e0a3becbfe4d795956",
+    "__v": 0
+  }
+]
